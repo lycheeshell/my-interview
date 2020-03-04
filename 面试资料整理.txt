@@ -1,0 +1,43 @@
+面试资料整理
+
+jvm垃圾回收 https://www.jianshu.com/p/9b66208689b4
+
+Object类中的方法 https://blog.csdn.net/nwpu_geeker/article/details/78760157
+
+Error、Exception与RuntimeException的区别 https://blog.csdn.net/qweqwruio/article/details/81329178
+
+乐观锁与悲观锁 https://blog.csdn.net/qq_34337272/article/details/81072874
+               https://www.jb51.net/article/155928.htm
+
+java内存模型及volatile关键字 https://www.cnblogs.com/dolphin0520/p/3920373.html
+
+ArrayList的扩容机制 https://blog.csdn.net/sky1373516909/article/details/89136572  文章前半部分不用看
+
+重点！HashMap和Hashtable以及ConcurrentHashMap的区别 https://blog.csdn.net/hanfengzqh/article/details/72420517
+
+数据库隔离级别 https://www.cnblogs.com/ForeverLover/p/4866354.html
+               https://zhuanlan.zhihu.com/p/37031059
+			   
+多线程的实现 https://zhuanlan.zhihu.com/p/47401636
+             https://www.cnblogs.com/dolphin0520/p/3949310.html
+
+多线程的同步 https://www.cnblogs.com/XHJT/p/3897440.html
+
+线程池 https://zhuanlan.zhihu.com/p/73990200
+
+OSI七层模型与TCP/IP五层模型 https://www.cnblogs.com/qishui/p/5428938.html
+                            https://blog.csdn.net/yulyu/article/details/69062288
+
+TCP三次握手四次挥手 https://zhuanlan.zhihu.com/p/43838752
+
+HTTP协议 https://www.cnblogs.com/jackson0714/p/HTTP1.html#_label0
+
+
+
+
+
+
+
+
+
+
