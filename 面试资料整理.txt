@@ -1,13 +1,17 @@
 面试资料整理
 
-jvm垃圾回收 https://www.jianshu.com/p/9b66208689b4
+head first 设计模式
+
+<java>
+java的基本数据类型和字节数 https://blog.csdn.net/qq_26751325/article/details/78547697
+
+jvm垃圾回收 https://blog.csdn.net/hollis_chuang/article/details/104140327
+
+类加载器与双亲委派 https://blog.csdn.net/u011080472/article/details/51332866
 
 Object类中的方法 https://blog.csdn.net/nwpu_geeker/article/details/78760157
 
 Error、Exception与RuntimeException的区别 https://blog.csdn.net/qweqwruio/article/details/81329178
-
-乐观锁与悲观锁 https://blog.csdn.net/qq_34337272/article/details/81072874
-               https://www.jb51.net/article/155928.htm
 
 java内存模型及volatile关键字 https://www.cnblogs.com/dolphin0520/p/3920373.html
 
@@ -15,9 +19,11 @@ ArrayList的扩容机制 https://blog.csdn.net/sky1373516909/article/details/891
 
 重点！HashMap和Hashtable以及ConcurrentHashMap的区别 https://blog.csdn.net/hanfengzqh/article/details/72420517
 
-数据库隔离级别 https://www.cnblogs.com/ForeverLover/p/4866354.html
-               https://zhuanlan.zhihu.com/p/37031059
-			   
+进程的同步、互斥、通信 https://blog.csdn.net/weixin_41413441/article/details/80548683
+                       https://blog.csdn.net/chen134225/article/details/81772185
+
+进程和线程 https://www.jianshu.com/p/2dc01727be45
+
 多线程的实现 https://zhuanlan.zhihu.com/p/47401636
              https://www.cnblogs.com/dolphin0520/p/3949310.html
 
@@ -25,19 +31,71 @@ ArrayList的扩容机制 https://blog.csdn.net/sky1373516909/article/details/891
 
 线程池 https://zhuanlan.zhihu.com/p/73990200
 
+序列化和反序列化 https://blog.csdn.net/tree_ifconfig/article/details/82766587
+
+反射 https://blog.csdn.net/sinat_38259539/article/details/71799078
+
+String、StringBuilder与StringBuffer https://zhuanlan.zhihu.com/p/77614811
+
+匿名内部类 https://www.cnblogs.com/SQP51312/p/6100314.html
+           https://blog.csdn.net/lxpblsc/article/details/21161115
+
+
+
+
+<网络>
 OSI七层模型与TCP/IP五层模型 https://www.cnblogs.com/qishui/p/5428938.html
                             https://blog.csdn.net/yulyu/article/details/69062288
 
 TCP三次握手四次挥手 https://zhuanlan.zhihu.com/p/43838752
 
 HTTP协议 https://www.cnblogs.com/jackson0714/p/HTTP1.html#_label0
+         https://blog.csdn.net/qq_36894974/article/details/103930478
+
+浏览器地址栏输入一个URL后回车，将会发生的事情 https://www.cnblogs.com/midiyu/p/7905554.html
+
+ARP协议 https://blog.csdn.net/ever_peng/article/details/80008638
+
+HTTP和HTTPS https://zhuanlan.zhihu.com/p/29655702
 
 
 
 
+<数据库>
+redis的数据结构 https://zhuanlan.zhihu.com/p/76026080
+
+Redis主从复制架构和Sentinel哨兵机制 https://www.cnblogs.com/hello-shf/p/12072330.html
+
+MySQL逻辑架构及查询过程 https://blog.csdn.net/chenshun123/article/details/79677037
+
+事务ACID和数据库隔离级别 https://www.cnblogs.com/ForeverLover/p/4866354.html
+               https://zhuanlan.zhihu.com/p/37031059
+
+聚簇索引和非聚簇索引 https://zhuanlan.zhihu.com/p/107133849
+                     https://www.cnblogs.com/qlqwjy/p/7770580.html
+
+多版本并发控制MVCC https://blog.csdn.net/w2064004678/article/details/83012387
+
+乐观锁与悲观锁（是一种锁的思想） https://blog.csdn.net/qq_34337272/article/details/81072874
+                                 https://www.jb51.net/article/155928.htm
+
+表级锁和行级锁 读锁写锁 共享锁排他锁 https://blog.csdn.net/guojinyu_001/article/details/77442966
+
+联合索引的最左前缀匹配 https://blog.csdn.net/wolf_love666/article/details/87603852
+
+MySQL binlog https://blog.csdn.net/wwwdc1012/article/details/88373440
 
 
 
+<算法>
+平衡二叉树、B树、B+树 https://zhuanlan.zhihu.com/p/27700617
 
+排序算法 https://zhuanlan.zhihu.com/p/42586566
+
+红黑树 https://segmentfault.com/a/1190000014037447
+
+洗牌算法 https://blog.csdn.net/geniusluzh/article/details/8443682
+
+银行家算法 https://www.cnblogs.com/chuxiuhong/p/6103928.html
 
 
