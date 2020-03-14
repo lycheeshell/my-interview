@@ -6,14 +6,19 @@ head first 设计模式
 java的基本数据类型和字节数 https://blog.csdn.net/qq_26751325/article/details/78547697
 
 jvm垃圾回收 https://blog.csdn.net/hollis_chuang/article/details/104140327
+            https://www.jianshu.com/p/9b66208689b4
+
+类加载过程 https://blog.csdn.net/yubotianxiao/article/details/51861663
 
 类加载器与双亲委派 https://blog.csdn.net/u011080472/article/details/51332866
+
+java内存模型及volatile关键字 https://www.cnblogs.com/dolphin0520/p/3920373.html
 
 Object类中的方法 https://blog.csdn.net/nwpu_geeker/article/details/78760157
 
 Error、Exception与RuntimeException的区别 https://blog.csdn.net/qweqwruio/article/details/81329178
 
-java内存模型及volatile关键字 https://www.cnblogs.com/dolphin0520/p/3920373.html
+泛型 https://www.cnblogs.com/coprince/p/8603492.html
 
 ArrayList的扩容机制 https://blog.csdn.net/sky1373516909/article/details/89136572  文章前半部分不用看
 
@@ -30,6 +35,10 @@ ArrayList的扩容机制 https://blog.csdn.net/sky1373516909/article/details/891
 多线程的同步 https://www.cnblogs.com/XHJT/p/3897440.html
 
 线程池 https://zhuanlan.zhihu.com/p/73990200
+
+ThreadLocal https://www.cnblogs.com/dolphin0520/p/3920407.html
+
+AtomicInteger原理CAS https://www.cnblogs.com/liuqing576598117/p/10565088.html
 
 序列化和反序列化 https://blog.csdn.net/tree_ifconfig/article/details/82766587
 
@@ -83,6 +92,8 @@ MySQL逻辑架构及查询过程 https://blog.csdn.net/chenshun123/article/detai
 
 联合索引的最左前缀匹配 https://blog.csdn.net/wolf_love666/article/details/87603852
 
+innodb哈希索引 https://www.cnblogs.com/heiming/p/5865101.html
+
 MySQL binlog https://blog.csdn.net/wwwdc1012/article/details/88373440
 
 
@@ -99,3 +110,11 @@ MySQL binlog https://blog.csdn.net/wwwdc1012/article/details/88373440
 银行家算法 https://www.cnblogs.com/chuxiuhong/p/6103928.html
 
 
+
+
+<Linux>
+统计文件中某个字符串出现的次数 https://blog.csdn.net/qq544649790/article/details/84202976
+
+查找文件的行数 https://blog.csdn.net/qq_23377055/article/details/47046261
+
+一个目录下所有文件的行数 https://blog.csdn.net/qq_32599479/article/details/91473149
