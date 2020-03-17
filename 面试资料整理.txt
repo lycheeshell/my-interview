@@ -1,5 +1,7 @@
 面试资料整理
 
+！！！合集 https://cyc2018.github.io/CS-Notes/#/README
+
 head first 设计模式
 
 <java>
@@ -22,12 +24,14 @@ Error、Exception与RuntimeException的区别 https://blog.csdn.net/qweqwruio/ar
 
 ArrayList的扩容机制 https://blog.csdn.net/sky1373516909/article/details/89136572  文章前半部分不用看
 
-重点！HashMap和Hashtable以及ConcurrentHashMap的区别 https://blog.csdn.net/hanfengzqh/article/details/72420517
+HashMap和Hashtable以及ConcurrentHashMap的区别 https://blog.csdn.net/hanfengzqh/article/details/72420517
 
 进程的同步、互斥、通信 https://blog.csdn.net/weixin_41413441/article/details/80548683
                        https://blog.csdn.net/chen134225/article/details/81772185
 
 进程和线程 https://www.jianshu.com/p/2dc01727be45
+
+线程的5种状态 https://blog.csdn.net/xingjing1226/article/details/81977129
 
 多线程的实现 https://zhuanlan.zhihu.com/p/47401636
              https://www.cnblogs.com/dolphin0520/p/3949310.html
@@ -40,6 +44,8 @@ ThreadLocal https://www.cnblogs.com/dolphin0520/p/3920407.html
 
 AtomicInteger原理CAS https://www.cnblogs.com/liuqing576598117/p/10565088.html
 
+ReentrantLock实现原理 https://www.cnblogs.com/chengxiao/p/7255941.html
+
 序列化和反序列化 https://blog.csdn.net/tree_ifconfig/article/details/82766587
 
 反射 https://blog.csdn.net/sinat_38259539/article/details/71799078
@@ -48,6 +54,13 @@ String、StringBuilder与StringBuffer https://zhuanlan.zhihu.com/p/77614811
 
 匿名内部类 https://www.cnblogs.com/SQP51312/p/6100314.html
            https://blog.csdn.net/lxpblsc/article/details/21161115
+
+BIO，NIO，多路复用，AIO https://blog.csdn.net/qq_33330687/article/details/81558198
+
+select、poll、epoll之间的区别 https://www.cnblogs.com/aspirant/p/9166944.html
+
+单点登录SSO https://www.cnblogs.com/yupeng/archive/2012/05/24/2517317.html
+
 
 
 
@@ -75,6 +88,10 @@ redis的数据结构 https://zhuanlan.zhihu.com/p/76026080
 
 Redis主从复制架构和Sentinel哨兵机制 https://www.cnblogs.com/hello-shf/p/12072330.html
 
+MySQL各数据类型所占字节数 https://www.jianshu.com/p/9c6af5c1eac5
+
+三范式 https://blog.csdn.net/hbtj_1216/article/details/77112850
+
 MySQL逻辑架构及查询过程 https://blog.csdn.net/chenshun123/article/details/79677037
 
 事务ACID和数据库隔离级别 https://www.cnblogs.com/ForeverLover/p/4866354.html
@@ -82,6 +99,8 @@ MySQL逻辑架构及查询过程 https://blog.csdn.net/chenshun123/article/detai
 
 聚簇索引和非聚簇索引 https://zhuanlan.zhihu.com/p/107133849
                      https://www.cnblogs.com/qlqwjy/p/7770580.html
+
+InnoDB的B+树高度和分叉 https://zhuanlan.zhihu.com/p/91457118
 
 多版本并发控制MVCC https://blog.csdn.net/w2064004678/article/details/83012387
 
@@ -94,12 +113,20 @@ MySQL逻辑架构及查询过程 https://blog.csdn.net/chenshun123/article/detai
 
 innodb哈希索引 https://www.cnblogs.com/heiming/p/5865101.html
 
+Innodb存储引擎 https://www.cnblogs.com/zhoujinyi/p/3408983.html
+
 MySQL binlog https://blog.csdn.net/wwwdc1012/article/details/88373440
+
+redo undo日志 https://my.oschina.net/u/863258/blog/699691
 
 
 
 <算法>
 平衡二叉树、B树、B+树 https://zhuanlan.zhihu.com/p/27700617
+
+完全二叉树 https://blog.csdn.net/mawming/article/details/46471429
+
+堆（Heap）大根堆、小根堆 https://www.cnblogs.com/wangchaowei/p/8288216.html
 
 排序算法 https://zhuanlan.zhihu.com/p/42586566
 
