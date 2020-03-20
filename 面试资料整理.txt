@@ -42,9 +42,17 @@ HashMap和Hashtable以及ConcurrentHashMap的区别 https://blog.csdn.net/hanfen
 
 ThreadLocal https://www.cnblogs.com/dolphin0520/p/3920407.html
 
+CountDownLatch https://zhuanlan.zhihu.com/p/95835099
+
+CyclicBarrier https://zhuanlan.zhihu.com/p/27349391
+
+Semaphore https://www.jianshu.com/p/0090341c6b80
+
 AtomicInteger原理CAS https://www.cnblogs.com/liuqing576598117/p/10565088.html
 
 ReentrantLock实现原理 https://www.cnblogs.com/chengxiao/p/7255941.html
+
+synchroized和Lock的区别 https://blog.csdn.net/hefenglian/article/details/82383569
 
 序列化和反序列化 https://blog.csdn.net/tree_ifconfig/article/details/82766587
 
@@ -58,6 +66,8 @@ String、StringBuilder与StringBuffer https://zhuanlan.zhihu.com/p/77614811
 BIO，NIO，多路复用，AIO https://blog.csdn.net/qq_33330687/article/details/81558198
 
 select、poll、epoll之间的区别 https://www.cnblogs.com/aspirant/p/9166944.html
+
+Reactor、Proactor https://blog.csdn.net/guowenyan001/article/details/11525271
 
 单点登录SSO https://www.cnblogs.com/yupeng/archive/2012/05/24/2517317.html
 
@@ -79,6 +89,8 @@ HTTP协议 https://www.cnblogs.com/jackson0714/p/HTTP1.html#_label0
 ARP协议 https://blog.csdn.net/ever_peng/article/details/80008638
 
 HTTP和HTTPS https://zhuanlan.zhihu.com/p/29655702
+
+cookie和session https://blog.csdn.net/M87138/article/details/40436485
 
 
 
