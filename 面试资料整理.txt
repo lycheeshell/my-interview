@@ -69,6 +69,10 @@ select、poll、epoll之间的区别 https://www.cnblogs.com/aspirant/p/9166944.
 
 Reactor、Proactor https://blog.csdn.net/guowenyan001/article/details/11525271
 
+RMI与RPC的区别 https://www.cnblogs.com/ygj0930/p/6542811.html
+
+java启动参数 https://zhuanlan.zhihu.com/p/98940096
+
 单点登录SSO https://www.cnblogs.com/yupeng/archive/2012/05/24/2517317.html
 
 
@@ -85,6 +89,8 @@ HTTP协议 https://www.cnblogs.com/jackson0714/p/HTTP1.html#_label0
          https://blog.csdn.net/qq_36894974/article/details/103930478
 
 浏览器地址栏输入一个URL后回车，将会发生的事情 https://www.cnblogs.com/midiyu/p/7905554.html
+
+Web页面的请求历程 https://blog.csdn.net/sun927/article/details/50764837
 
 ARP协议 https://blog.csdn.net/ever_peng/article/details/80008638
 
@@ -147,6 +153,11 @@ redo undo日志 https://my.oschina.net/u/863258/blog/699691
 洗牌算法 https://blog.csdn.net/geniusluzh/article/details/8443682
 
 银行家算法 https://www.cnblogs.com/chuxiuhong/p/6103928.html
+
+Dijkstra算法 https://zhuanlan.zhihu.com/p/40338107
+             https://blog.csdn.net/hjiam2/article/details/38072203
+
+约瑟夫环 https://mp.weixin.qq.com/s?src=11&timestamp=1584891518&ver=2232&signature=gMXJZetdb9PDn4XGyOlcDwk8XumfjWEiB6eT5JyKp9s1cikBxQsSBqHo9KxDxdIDpDzdLkRQCH8P-3u65bLMw9bSMNdCYQbPMac*mtbxuMX3GhsiUQdW2NLqWSlkVZKO&new=1
 
 
 
