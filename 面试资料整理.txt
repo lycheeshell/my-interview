@@ -1,6 +1,8 @@
 面试资料整理
 
 ！！！合集 https://cyc2018.github.io/CS-Notes/#/README
+！！！超级大合集 http://www.tianxiaobo.com/
+
 
 head first 设计模式
 
@@ -75,7 +77,7 @@ java启动参数 https://zhuanlan.zhihu.com/p/98940096
 
 单点登录SSO https://www.cnblogs.com/yupeng/archive/2012/05/24/2517317.html
 
-
+动态代理 https://www.cnblogs.com/puyangsky/p/6218925.html
 
 
 
