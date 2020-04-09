@@ -24,7 +24,7 @@ Error、Exception与RuntimeException的区别 https://blog.csdn.net/qweqwruio/ar
 
 泛型 https://www.cnblogs.com/coprince/p/8603492.html
 
-ArrayList的扩容机制 https://blog.csdn.net/sky1373516909/article/details/89136572  文章前半部分不用看
+ArrayList的扩容机制 https://blog.csdn.net/sky1373516909/article/details/89136572
 
 HashMap和Hashtable以及ConcurrentHashMap的区别 https://blog.csdn.net/hanfengzqh/article/details/72420517
 
@@ -44,6 +44,8 @@ HashMap和Hashtable以及ConcurrentHashMap的区别 https://blog.csdn.net/hanfen
 
 ThreadLocal https://www.cnblogs.com/dolphin0520/p/3920407.html
 
+AQS https://www.jianshu.com/p/da9d051dcc3d
+
 CountDownLatch https://zhuanlan.zhihu.com/p/95835099
 
 CyclicBarrier https://zhuanlan.zhihu.com/p/27349391
@@ -52,7 +54,9 @@ Semaphore https://www.jianshu.com/p/0090341c6b80
 
 AtomicInteger原理CAS https://www.cnblogs.com/liuqing576598117/p/10565088.html
 
-ReentrantLock实现原理 https://www.cnblogs.com/chengxiao/p/7255941.html
+阻塞队列 https://www.cnblogs.com/dolphin0520/p/3932906.html
+
+ReentrantLock https://www.cnblogs.com/chengxiao/p/7255941.html
 
 synchroized和Lock的区别 https://blog.csdn.net/hefenglian/article/details/82383569
 
@@ -78,6 +82,8 @@ java启动参数 https://zhuanlan.zhihu.com/p/98940096
 单点登录SSO https://www.cnblogs.com/yupeng/archive/2012/05/24/2517317.html
 
 动态代理 https://www.cnblogs.com/puyangsky/p/6218925.html
+
+对称加密和非对称加密 https://blog.csdn.net/qq_29689487/article/details/81634057
 
 
 
@@ -108,6 +114,14 @@ redis的数据结构 https://zhuanlan.zhihu.com/p/76026080
 
 Redis主从复制架构和Sentinel哨兵机制 https://www.cnblogs.com/hello-shf/p/12072330.html
 
+redis数据淘汰策略 https://www.cnblogs.com/schangxiang/p/11351658.html
+
+redis事务 https://blog.csdn.net/jia281460530/article/details/51778814
+
+redis持久化 https://www.cnblogs.com/chenliangcl/p/7240350.html
+
+redis集群 https://www.cnblogs.com/xuanzhi201111/p/4425194.html
+
 MySQL各数据类型所占字节数 https://www.jianshu.com/p/9c6af5c1eac5
 
 三范式 https://blog.csdn.net/hbtj_1216/article/details/77112850
@@ -115,7 +129,7 @@ MySQL各数据类型所占字节数 https://www.jianshu.com/p/9c6af5c1eac5
 MySQL逻辑架构及查询过程 https://blog.csdn.net/chenshun123/article/details/79677037
 
 事务ACID和数据库隔离级别 https://www.cnblogs.com/ForeverLover/p/4866354.html
-               https://zhuanlan.zhihu.com/p/37031059
+                         https://zhuanlan.zhihu.com/p/37031059
 
 聚簇索引和非聚簇索引 https://zhuanlan.zhihu.com/p/107133849
                      https://www.cnblogs.com/qlqwjy/p/7770580.html
