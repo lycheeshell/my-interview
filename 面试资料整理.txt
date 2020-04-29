@@ -12,13 +12,21 @@ java的基本数据类型和字节数 https://blog.csdn.net/qq_26751325/article/
 jvm垃圾回收 https://blog.csdn.net/hollis_chuang/article/details/104140327
             https://www.jianshu.com/p/9b66208689b4
 
+OOM的场景及解决方法 https://blog.csdn.net/wildandfly/article/details/32715013
+
 类加载过程 https://blog.csdn.net/yubotianxiao/article/details/51861663
 
 类加载器与双亲委派 https://blog.csdn.net/u011080472/article/details/51332866
 
+JVM的关闭钩子 https://blog.csdn.net/weixin_34159110/article/details/91799190
+
 java内存模型及volatile关键字 https://www.cnblogs.com/dolphin0520/p/3920373.html
 
 Object类中的方法 https://blog.csdn.net/nwpu_geeker/article/details/78760157
+
+装箱和拆箱 https://zhuanlan.zhihu.com/p/54190167
+
+Integer类不能加锁 https://blog.csdn.net/sky_asd/article/details/89352035
 
 Error、Exception与RuntimeException的区别 https://blog.csdn.net/qweqwruio/article/details/81329178
 
@@ -60,6 +68,8 @@ ReentrantLock https://www.cnblogs.com/chengxiao/p/7255941.html
 
 synchroized和Lock的区别 https://blog.csdn.net/hefenglian/article/details/82383569
 
+静态方法加锁和非静态方法加锁的区别 https://blog.csdn.net/qq_36470686/article/details/85003072
+
 序列化和反序列化 https://blog.csdn.net/tree_ifconfig/article/details/82766587
 
 反射 https://blog.csdn.net/sinat_38259539/article/details/71799078
@@ -84,6 +94,11 @@ java启动参数 https://zhuanlan.zhihu.com/p/98940096
 动态代理 https://www.cnblogs.com/puyangsky/p/6218925.html
 
 对称加密和非对称加密 https://blog.csdn.net/qq_29689487/article/details/81634057
+
+秒杀系统设计 https://zhuanlan.zhihu.com/p/54266957
+
+高并发系统设计 https://zhuanlan.zhihu.com/p/66596036
+
 
 
 
@@ -110,6 +125,8 @@ cookie和session https://blog.csdn.net/M87138/article/details/40436485
 
 
 <数据库>
+redis合集 https://zhuanlan.zhihu.com/p/118561398
+
 redis的数据结构 https://zhuanlan.zhihu.com/p/76026080
 
 Redis主从复制架构和Sentinel哨兵机制 https://www.cnblogs.com/hello-shf/p/12072330.html
@@ -122,11 +139,16 @@ redis持久化 https://www.cnblogs.com/chenliangcl/p/7240350.html
 
 redis集群 https://www.cnblogs.com/xuanzhi201111/p/4425194.html
 
+mysql连接握手 https://blog.csdn.net/counsellor/article/details/83082894
+              https://my.oschina.net/alchemystar/blog/833598
+
 MySQL各数据类型所占字节数 https://www.jianshu.com/p/9c6af5c1eac5
 
 三范式 https://blog.csdn.net/hbtj_1216/article/details/77112850
 
 MySQL逻辑架构及查询过程 https://blog.csdn.net/chenshun123/article/details/79677037
+
+mysql调优及查询优化 https://blog.csdn.net/ff906317011/article/details/78604784
 
 事务ACID和数据库隔离级别 https://www.cnblogs.com/ForeverLover/p/4866354.html
                          https://zhuanlan.zhihu.com/p/37031059
@@ -134,7 +156,11 @@ MySQL逻辑架构及查询过程 https://blog.csdn.net/chenshun123/article/detai
 聚簇索引和非聚簇索引 https://zhuanlan.zhihu.com/p/107133849
                      https://www.cnblogs.com/qlqwjy/p/7770580.html
 
+回表 https://blog.csdn.net/lonely_devil/article/details/102734899
+
 InnoDB的B+树高度和分叉 https://zhuanlan.zhihu.com/p/91457118
+
+innodb物理存储结构 https://www.zhihu.com/question/266596768
 
 多版本并发控制MVCC https://blog.csdn.net/w2064004678/article/details/83012387
 
@@ -158,13 +184,19 @@ redo undo日志 https://my.oschina.net/u/863258/blog/699691
 <算法>
 平衡二叉树、B树、B+树 https://zhuanlan.zhihu.com/p/27700617
 
+二叉查找树 https://blog.csdn.net/zzuchengming/article/details/49820531
+
 完全二叉树 https://blog.csdn.net/mawming/article/details/46471429
+
+AVL树 https://zhuanlan.zhihu.com/p/46430653
+
+红黑树 https://segmentfault.com/a/1190000014037447
 
 堆（Heap）大根堆、小根堆 https://www.cnblogs.com/wangchaowei/p/8288216.html
 
-排序算法 https://zhuanlan.zhihu.com/p/42586566
+跳跃表 https://www.cnblogs.com/acfox/p/3688607.html
 
-红黑树 https://segmentfault.com/a/1190000014037447
+排序算法 https://zhuanlan.zhihu.com/p/42586566
 
 洗牌算法 https://blog.csdn.net/geniusluzh/article/details/8443682
 
@@ -175,6 +207,7 @@ Dijkstra算法 https://zhuanlan.zhihu.com/p/40338107
 
 约瑟夫环 https://mp.weixin.qq.com/s?src=11&timestamp=1584891518&ver=2232&signature=gMXJZetdb9PDn4XGyOlcDwk8XumfjWEiB6eT5JyKp9s1cikBxQsSBqHo9KxDxdIDpDzdLkRQCH8P-3u65bLMw9bSMNdCYQbPMac*mtbxuMX3GhsiUQdW2NLqWSlkVZKO&new=1
 
+查找链表的中间节点 https://blog.csdn.net/suibianshen2012/article/details/52032032
 
 
 
