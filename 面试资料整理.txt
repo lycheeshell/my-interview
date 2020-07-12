@@ -129,6 +129,8 @@ redis合集 https://zhuanlan.zhihu.com/p/118561398
 
 redis的数据结构 https://zhuanlan.zhihu.com/p/76026080
 
+redis单线程 https://blog.csdn.net/lch_2016/article/details/81078243
+
 Redis主从复制架构和Sentinel哨兵机制 https://www.cnblogs.com/hello-shf/p/12072330.html
 
 redis数据淘汰策略 https://www.cnblogs.com/schangxiang/p/11351658.html
