@@ -111,9 +111,7 @@ TCP三次握手四次挥手 https://zhuanlan.zhihu.com/p/43838752
 HTTP协议 https://www.cnblogs.com/jackson0714/p/HTTP1.html#_label0
          https://blog.csdn.net/qq_36894974/article/details/103930478
 
-浏览器地址栏输入一个URL后回车，将会发生的事情 https://www.cnblogs.com/midiyu/p/7905554.html
-
-Web页面的请求历程 https://blog.csdn.net/sun927/article/details/50764837
+浏览器地址栏输入一个URL后回车，将会发生的事情 https://blog.csdn.net/jiao_0509/article/details/82491299
 
 ARP协议 https://blog.csdn.net/ever_peng/article/details/80008638
 
