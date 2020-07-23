@@ -141,6 +141,8 @@ redis持久化 https://www.cnblogs.com/chenliangcl/p/7240350.html
 
 redis集群 https://www.cnblogs.com/xuanzhi201111/p/4425194.html
 
+redis实现分布式锁 https://blog.csdn.net/liutengyuan/article/details/104926023
+
 mysql连接握手 https://blog.csdn.net/counsellor/article/details/83082894
               https://my.oschina.net/alchemystar/blog/833598
 
