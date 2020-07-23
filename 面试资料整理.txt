@@ -162,6 +162,8 @@ mysql调优及查询优化 https://blog.csdn.net/ff906317011/article/details/786
 
 回表 https://blog.csdn.net/lonely_devil/article/details/102734899
 
+优化order by和group by查询 https://blog.csdn.net/qq_42033495/article/details/106423980
+
 InnoDB的B+树高度和分叉 https://zhuanlan.zhihu.com/p/91457118
 
 innodb物理存储结构 https://www.zhihu.com/question/266596768
